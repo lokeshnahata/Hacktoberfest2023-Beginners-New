@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Lokesh Nahata](https://github.com/lokeshnahata)
+
+- Place: Bangalore, India
+- Bio: Software Engineer at Informatica |  Cloud Engineer
+- Affiliation : Institute of Technical Education and Research, Bhubaneshwar
+- GitHub: [lokeshnahata](https://github.com/lokeshnahata)
